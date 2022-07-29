@@ -8,11 +8,11 @@ Things to learns:
 5) Learn DSA and its implementation.
 
 <!-- Error -->
-expo : File C:\Users\akash\AppData\Roaming\npm\expo.ps1 cannot be loaded because running scripts is disabled on this system. For more 
+expo : File C:\Users\akash\AppData\Roaming\npm\expo.ps1 cannot be loaded because running scripts is  disabled on this system. For more 
 information, see about_Execution_Policies at https:/go.microsoft.com/fwlink/?LinkID=135170.
 At line:1 char:1
 + expo install react-native-gesture-handler react-native-reanimated
-+ ~~~~
+<!-- + ~~~~ -->
     + CategoryInfo          : SecurityError: (:) [], PSSecurityException
     + FullyQualifiedErrorId : UnauthorizedAccess
 <!-- Error -->
