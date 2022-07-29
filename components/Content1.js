@@ -1,6 +1,6 @@
 import React from 'react'
 import {
-  StyleSheet, Text, View, Button, Dimensions, TouchableOpacity
+  StyleSheet, Text, View, TouchableOpacity
 } from 'react-native'
 
 const Content1 = () => {
@@ -19,7 +19,7 @@ const Content1 = () => {
       <TouchableOpacity
         style={styles.panelButton}
                 // onPress={() => bs.current.snapTo(1)}
-        onPressOut={() => bs.current.snapTo(2)}
+        // onPressOut={() => bs.current.snapTo(2)}
       >
         <Text style={styles.panelButtonTitle}>Cancel</Text>
       </TouchableOpacity>
